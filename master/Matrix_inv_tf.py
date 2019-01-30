@@ -1,6 +1,6 @@
 import numpy as np
 import tensorflow as tf
-import timeitMultiplication
+import timeit
 import pandas as pd
 t_1=[]
 t_2=[]
